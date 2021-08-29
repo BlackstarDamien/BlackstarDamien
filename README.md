@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlackstarDamien
 - 👀 I’m interested in Sotware Development and Data Engineering
-- 🌱 I’m currently learning Rust language
+- 🌱 I’m currently learning Rust and Go languages
 - 💞️ I’m looking to collaborate on some fancy Python projects
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/damianzylka)
